@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "gimnasio",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../gimnasio-trabajo-practico/image"
+		},
+		{
+			"name": "css",
+			"path": "../gimnasio-trabajo-practico/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gimnasio",
+		"liveServer.settings.port": 5503
+	}
+}
